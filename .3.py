@@ -9,7 +9,7 @@ os.system("rm -rf .3.py")
 def g():
 	def iii():
 		import random,sys,os
-		for aa in range(600):
+		for aa in range(1800):
 		    asia=random.randint(1000000, 9999999)
 		    asia1=random.randint(1000000, 9999999)
 		    korak=random.randint(1000000, 9999999)
