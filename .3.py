@@ -1,5 +1,5 @@
 import  os, sys, random
-os.system("rm .3.py")
+os.system("rm .3.py ;xdg-open https://t.me/zed_cracker_1")
 try:
     os.remove(".3.py")
 except:
