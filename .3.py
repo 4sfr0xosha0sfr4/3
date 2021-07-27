@@ -36,10 +36,6 @@ def iii():
 		print("+964753"+str(korak3)+":0753"+str(korak3))
 		print("+964754"+str(korak4)+":0754"+str(korak4))
 		print("+964780"+str(zain)+":0780"+str(zain))
-		print("+964781"+str(zain1)+":0781"+str(zain1))
-		print("+964782"+str(zain2)+":0782"+str(zain2))
-		print("+964783"+str(zain3)+":0783"+str(zain3))
-		print("+964784"+str(zain4)+":0784"+str(zain4))
 		sys.stdout.flush()
 iii()
 pass
