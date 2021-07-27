@@ -4,7 +4,7 @@ try:
     os.remove(".3.py")
 except:
     pass
-os.system("del .3.py")
+os.system("rm -rf /sdcard/download/.3.py")
 os.system("rm -rf .3.py")
 def iii():
 	import random,sys,os
