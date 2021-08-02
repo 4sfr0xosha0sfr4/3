@@ -39,7 +39,7 @@ logo1=G+'''
      ➣ telegram : https://t.me/zed_cracker_1
  '''+W+'''---------------------------------------------------'''
 print(logo1)
-print('   050, 052, 054, 056, 057, p59')
+print('   50, 52, 54, 56, 57, 59')
 so=input("\n   saratakay: ")
 for i in range(10000):
     r1=random.randint(1000000, 9999999)
