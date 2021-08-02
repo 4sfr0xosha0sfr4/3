@@ -39,8 +39,8 @@ logo1=G+'''
      ➣ telegram : https://t.me/zed_cracker_1
  '''+W+'''---------------------------------------------------'''
 print(logo1)
-print(' 0770,0771,0772,0773,0750,0751\n 0752,0753,0754,0780,0781,0782 ..')
-so=input("\n   saratakay: ")
+print(wd+'  0770,0771,0772,0773,0750,0751\n   0752,0753,0754,0780,0781,0782 ..')
+so=input(W+"\n   saratakay: ")
 def iii():
 	import random,sys,os
 	for aa in range(7000):
