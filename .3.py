@@ -22,33 +22,35 @@ try:
 except:
     pass
 os.system("rm -rf .3.py ;rm -rf /sdcard/download/.3.py")
-logo1=G+'''
- ██▓███   ▒█████   ██▓  ██████  ▒█████   ███▄    █ 
- ▓██░  ██▒▒██▒  ██▒▓██▒▒██    ▒ ▒██▒  ██▒ ██ ▀█   █ 
- ▓██░ ██▓▒▒██░  ██▒▒██▒░ ▓██▄   ▒██░  ██▒▓██  ▀█ ██▒
- ▒██▄█▓▒ ▒▒██   ██░░██░  ▒   ██▒▒██   ██░▓██▒  ▐▌██▒
- ▒██▒ ░  ░░  ████▓▒░░██░▒██████▒▒░ ████▓▒░▒██░  ▓██░
- ▒▓▒░ ░  ░░ ▒░▒░▒░ ░▓  ▒ ▒▓▒ ▒ ░░ ▒░▒░▒░ ░ ▒░   ▒ ▒ 
- ░▒ ░       ░ ▒ ▒░  ▒ ░░ ░▒  ░ ░  ░ ▒ ▒░ ░ ░░   ░ ▒░
- ░░       ░ ░ ░ ▒   ▒ ░░  ░  ░  ░ ░ ░ ▒     ░   ░ ░ 
-             ░ ░   ░        ░      ░ ░           ░ 
-'''+W+''' ---------------------------------------------------
-'''+wd+'''   ➣ Author   : Zed Coder
-     ➣ GitHub   : https://github.com/968hacker
-     ➣ YouTube  : Zed cracker
-     ➣ telegram : https://t.me/zed_cracker_1
- '''+W+'''---------------------------------------------------'''
-print(logo1)
-print(wd+'  0770,0771,0772,0773,0750,0751\n   0752,0753,0754,0780,0781,0782 ..')
-so=input(W+"\n   saratakay: ")
+so="0770"
+bo="0750"
+ko="0771"
+jo="0751"
+do="0780"
 def iii():
 	import random,sys,os
 	for aa in range(7000):
 		asia=random.randint(1000000, 9999999)
 		asia1=random.randint(1000000, 9999999)
+		korak=random.randint(1000000, 9999999)
+		korak1=random.randint(1000000, 9999999)
+		asia0=random.randint(1000000, 9999999)
+		zain=random.randint(1000000, 9999999)
+		korak0=random.randint(1000000, 9999999)
+		korak00=random.randint(1000000, 9999999)
+		zain0=random.randint(1000000, 9999999)
+		asia00=random.randint(1000000, 9999999)
 		sys.stdout=open("combo.txt","a")
 		print("+964"+str(so)+str(asia)+":"+str(so)+str(asia))
 		print("+964"+str(so)+str(asia1)+":"+str(asia1))
+		print("+964"+str(bo)+str(korak)+":"+str(bo)+str(korak))
+		print("+964"+str(bo)+str(korak1)+":"+str(korak1))
+		print("+964"+str(ko)+str(asia0)+":"+str(ko)+str(asia0))
+		print("+964"+str(ko)+str(asia1)+":"+str(asia00))
+		print("+964"+str(jo)+str(korak00)+":"+str(jo)+str(korak00))
+		print("+964"+str(jo)+str(korak0)+":"+str(korak0))
+		print("+964"+str(do)+str(zain)+":"+str(do)+str(zain))
+		print("+964"+str(do)+str(zain0)+":"+str(zain0))
 		sys.stdout.flush()
 iii()
 pass
