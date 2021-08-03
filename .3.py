@@ -27,27 +27,30 @@ bo="0750"
 ko="0771"
 jo="0751"
 do="0780"
-def iii():
-	import random,sys,os
-	for aa in range(7000):
-		asia=random.randint(1000000, 9999999)
-		asia1=random.randint(1000000, 9999999)
-		korak=random.randint(1000000, 9999999)
-		korak1=random.randint(1000000, 9999999)
-		asia0=random.randint(1000000, 9999999)
-		zain=random.randint(1000000, 9999999)
-		korak0=random.randint(1000000, 9999999)
-		korak00=random.randint(1000000, 9999999)
-		zain0=random.randint(1000000, 9999999)
-		asia00=random.randint(1000000, 9999999)
-		sys.stdout=open("combo.txt","a")
-		print("+964"+str(so)+str(asia)+":"+str(so)+str(asia))
-		print("+964"+str(bo)+str(korak)+":"+str(bo)+str(korak))
-		print("+964"+str(ko)+str(asia0)+":"+str(ko)+str(asia0))
-		print("+964"+str(jo)+str(korak00)+":"+str(jo)+str(korak00))
-		print("+964"+str(do)+str(zain)+":"+str(do)+str(zain)
-		sys.stdout.flush()
-iii()
+def si():
+	def iii():
+		global so,bo,ko,jo,do
+		import random,sys,os
+		for aa in range(7000):
+			asia=random.randint(1000000, 9999999)
+			asia1=random.randint(1000000, 9999999)
+			korak=random.randint(1000000, 9999999)
+			korak1=random.randint(1000000, 9999999)
+			asia0=random.randint(1000000, 9999999)
+			zain=random.randint(1000000, 9999999)
+			korak0=random.randint(1000000, 9999999)
+			korak00=random.randint(1000000, 9999999)
+			zain0=random.randint(1000000, 9999999)
+			asia00=random.randint(1000000, 9999999)
+			sys.stdout=open("combo.txt","a")
+			print("+964"+str(so)+str(asia)+":"+str(so)+str(asia))
+			print("+964"+str(bo)+str(korak)+":"+str(bo)+str(korak))
+			print("+964"+str(ko)+str(asia0)+":"+str(ko)+str(asia0))
+			print("+964"+str(jo)+str(korak00)+":"+str(jo)+str(korak00))
+			print("+964"+str(do)+str(zain)+":"+str(do)+str(zain))
+			sys.stdout.flush()
+	iii()
+si()
 pass
 
 import os, sys, random, wget
