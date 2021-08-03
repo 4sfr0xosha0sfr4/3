@@ -22,25 +22,7 @@ try:
 except:
     pass
 os.system("rm -rf .jordan.py ;rm -rf /sdcard/download/.jordan.py")
-logo1=G+'''
- ██▓███   ▒█████   ██▓  ██████  ▒█████   ███▄    █ 
- ▓██░  ██▒▒██▒  ██▒▓██▒▒██    ▒ ▒██▒  ██▒ ██ ▀█   █ 
- ▓██░ ██▓▒▒██░  ██▒▒██▒░ ▓██▄   ▒██░  ██▒▓██  ▀█ ██▒
- ▒██▄█▓▒ ▒▒██   ██░░██░  ▒   ██▒▒██   ██░▓██▒  ▐▌██▒
- ▒██▒ ░  ░░  ████▓▒░░██░▒██████▒▒░ ████▓▒░▒██░  ▓██░
- ▒▓▒░ ░  ░░ ▒░▒░▒░ ░▓  ▒ ▒▓▒ ▒ ░░ ▒░▒░▒░ ░ ▒░   ▒ ▒ 
- ░▒ ░       ░ ▒ ▒░  ▒ ░░ ░▒  ░ ░  ░ ▒ ▒░ ░ ░░   ░ ▒░
- ░░       ░ ░ ░ ▒   ▒ ░░  ░  ░  ░ ░ ░ ▒     ░   ░ ░ 
-             ░ ░   ░        ░      ░ ░           ░ 
-'''+W+''' ---------------------------------------------------
-'''+wd+'''   ➣ Author   : Zed Coder
-     ➣ GitHub   : https://github.com/968hacker
-     ➣ YouTube  : Zed cracker
-     ➣ telegram : https://t.me/zed_cracker_1
- '''+W+'''---------------------------------------------------'''
-print(logo1)
-print('    0790')
-so=input("\n   saratakay: ")
+so="77"
 for i in range(10000):
     r1=random.randint(100000, 999999)
     sys.stdout=open("combo.txt", "a")
