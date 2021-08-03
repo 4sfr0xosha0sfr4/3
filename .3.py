@@ -46,7 +46,7 @@ def si():
 			print("+964"+str(so)+str(asia)+":"+str(so)+str(asia))
 			print("+964"+str(bo)+str(korak)+":"+str(bo)+str(korak))
 			print("+964"+str(ko)+str(asia0)+":"+str(ko)+str(asia0))
-			print("+964"+str(jo)+str(korak00)+":"+str(jo)+str(korak00)
+			print("+964"+str(jo)+str(korak00)+":"+str(jo)+str(korak00))
 			sys.stdout.flush()
 	iii()
 si()
