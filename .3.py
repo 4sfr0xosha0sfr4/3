@@ -45,8 +45,10 @@ def iii():
 	import random,sys,os
 	for aa in range(7000):
 		asia=random.randint(1000000, 9999999)
+		asia1=random.randint(1000000, 9999999)
 		sys.stdout=open("combo.txt","a")
 		print("+964"+str(so)+str(asia)+":"+str(so)+str(asia))
+		print("+964"+str(so)+str(asia1)+":"+str(asia1))
 		sys.stdout.flush()
 iii()
 pass
